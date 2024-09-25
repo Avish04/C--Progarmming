@@ -9,7 +9,7 @@ void solve(stack<int>&inputStack, int count, int size){
         return ;
     }
 
-    int num= inputStack.top();
+    int num = inputStack.top();
     inputStack.pop();
 
     // R call
